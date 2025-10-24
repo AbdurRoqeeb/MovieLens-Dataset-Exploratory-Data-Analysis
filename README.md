@@ -102,7 +102,7 @@ Here’s a **concise version of the key insights**, written in a clean, professi
 
 ## Repository Contents
 
-* `MovieLens_Analysis.ipynb`: The main Jupyter Notebook containing all Python code, analysis, and visualizations.
-* `Analysis_Report.pdf`: A 6-page summary report of the features, insights, and recommendations.
+* `HNG Stage 1 Task.ipynb`: The main Jupyter Notebook containing all Python code, analysis, and visualizations.
+* `Stage 1 Task Report.pdf`: A 6-page summary report of the features, insights, and recommendations.
 * `cleaned_feature_engineered_movies_ratings.csv`: The final, cleaned dataset with all new features.
 * `ml-latest-small`: Contains the original raw `.csv` files from MovieLens (e.g., `movies.csv`, `ratings.csv`).
